@@ -1,0 +1,7 @@
+main: com.lookcook.gamble.Gamble
+name: Gamble
+version: 1.0
+
+commands:
+  gamble: 
+    description: Gamble money.
